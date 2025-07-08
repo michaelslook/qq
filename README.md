@@ -1,3 +1,3 @@
-# Node.js Vulnerable Demo
+# Python Vulnerable Demo
 
-This repo demonstrates known vulnerable dependencies and unsafe code for X-Ray SCA testing. DO NOT use in production.
+This repo demonstrates CVEs and command injection for X-Ray SCA testing. For demo use only.
